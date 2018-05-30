@@ -1,0 +1,5 @@
+[user]
+    name = Citrus Software
+    email = git@citrus.software
+[core]
+	editor = vim
