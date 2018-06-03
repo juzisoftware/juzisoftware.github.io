@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Citrus Software</title>
-    <link>https://citrus.software/</link>
+    <link>http://citrus.software/</link>
     <description>Recent content on Citrus Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://citrus.software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://citrus.software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>https://citrus.software/about/</link>
+      <link>http://citrus.software/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://citrus.software/about/</guid>
+      <guid>http://citrus.software/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://citrus.software/contact/</link>
+      <link>http://citrus.software/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://citrus.software/contact/</guid>
+      <guid>http://citrus.software/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service</title>
-      <link>https://citrus.software/service/</link>
+      <link>http://citrus.software/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://citrus.software/service/</guid>
+      <guid>http://citrus.software/service/</guid>
       <description></description>
     </item>
     
